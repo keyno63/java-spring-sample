@@ -1,4 +1,4 @@
-package com.example.javaspringsample;
+package tokyo.maigoname.javaspringsample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

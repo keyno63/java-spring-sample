@@ -1,4 +1,4 @@
-package com.example.javaspringsample;
+package tokyo.maigoname.javaspringsample;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
